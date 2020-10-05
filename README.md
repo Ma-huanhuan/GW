@@ -1,2 +1,2 @@
 # GW
-This a matlab code for static COHSEX calculations.
+This is a matlab code for static COHSEX calculations.
